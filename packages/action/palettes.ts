@@ -19,6 +19,15 @@ export const basePalettes: Record<
     colorDots: ["#161b22", "#01311f", "#034525", "#0f6d31", "#00c647"],
     colorSnake: "purple",
   },
+
+  // >>> Aqui entra seu tema personalizado <<<
+  "nycolas-theme": {
+    colorDotBorder: "#1b1f230a",
+    colorEmpty: new Date().getHours() < 12 ? "#000000" : "#FFFFFF", // fundo muda
+    colorDots: ["#184A45"], // Mars Green pros alimentos
+    colorSnake: "#FF2400",   // vermelho escarlate
+    dark: true,              // força estilo "dark"
+  },
 };
 
 // aliases
