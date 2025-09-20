@@ -1,6 +1,4 @@
-# 🐍 GitHub Contribution Snake — Auto-generate & Publish
-# 🐍 Cobra de Contribuições — Gerar & Publicar Automaticamente
-# 🐍 GitHub 贡献蛇 — 自动生成与发布
+# 🐍 GitHub Contribution Snake — Auto-generate & Publish | # 🐍 Cobra de Contribuições — Gerar & Publicar Automaticamente | # 🐍 GitHub 贡献蛇 — 自动生成与发布
 
 | 🇺🇸 English | 🇧🇷 Português | 🇨🇳 中文 (简体) |
 |---|---|---|
